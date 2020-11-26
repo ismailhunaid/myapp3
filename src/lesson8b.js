@@ -8,7 +8,7 @@ class Lesson8b extends Component {
         
         return(
             <div>
-                <p> this is lesson8b  ceating simple Navbar </p>
+                <p> this is lesson8b bbbbb ceating simple Navbar </p>
                 
                 <nav>
                     
